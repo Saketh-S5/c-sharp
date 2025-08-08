@@ -1,0 +1,8 @@
+C:\Users\saket\OneDrive\Desktop\cs programs\evenodd\bin\Debug\evenodd.exe.config
+C:\Users\saket\OneDrive\Desktop\cs programs\evenodd\bin\Debug\evenodd.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\evenodd\bin\Debug\evenodd.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\evenodd\obj\Debug\evenodd.csproj.AssemblyReference.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\evenodd\obj\Debug\evenodd.csproj.CoreCompileInputs.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\evenodd\obj\Debug\evenodd.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\evenodd\obj\Debug\evenodd.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\evenodd\obj\Debug\evenodd.exe.config
