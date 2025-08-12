@@ -1,0 +1,8 @@
+C:\Users\saket\OneDrive\Desktop\cs programs\readaperson\obj\Debug\readaperson.csproj.AssemblyReference.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\readaperson\obj\Debug\readaperson.csproj.CoreCompileInputs.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\readaperson\bin\Debug\readaperson.exe.config
+C:\Users\saket\OneDrive\Desktop\cs programs\readaperson\bin\Debug\readaperson.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\readaperson\bin\Debug\readaperson.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\readaperson\obj\Debug\readaperson.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\readaperson\obj\Debug\readaperson.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\readaperson\obj\Debug\readaperson.exe.config

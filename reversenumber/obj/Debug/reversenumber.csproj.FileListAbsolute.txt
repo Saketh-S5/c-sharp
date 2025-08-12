@@ -1,0 +1,7 @@
+C:\Users\saket\OneDrive\Desktop\cs programs\reversenumber\bin\Debug\reversenumber.exe.config
+C:\Users\saket\OneDrive\Desktop\cs programs\reversenumber\bin\Debug\reversenumber.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\reversenumber\bin\Debug\reversenumber.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\reversenumber\obj\Debug\reversenumber.csproj.AssemblyReference.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\reversenumber\obj\Debug\reversenumber.csproj.CoreCompileInputs.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\reversenumber\obj\Debug\reversenumber.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\reversenumber\obj\Debug\reversenumber.pdb

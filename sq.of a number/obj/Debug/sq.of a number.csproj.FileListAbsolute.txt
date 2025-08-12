@@ -1,0 +1,8 @@
+C:\Users\saket\OneDrive\Desktop\cs programs\sq.of a number\obj\Debug\sq.of a number.csproj.AssemblyReference.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\sq.of a number\obj\Debug\sq.of a number.csproj.CoreCompileInputs.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\sq.of a number\bin\Debug\sq.of a number.exe.config
+C:\Users\saket\OneDrive\Desktop\cs programs\sq.of a number\bin\Debug\sq.of a number.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\sq.of a number\bin\Debug\sq.of a number.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\sq.of a number\obj\Debug\sq.of a number.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\sq.of a number\obj\Debug\sq.of a number.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\sq.of a number\obj\Debug\sq.of a number.exe.config
