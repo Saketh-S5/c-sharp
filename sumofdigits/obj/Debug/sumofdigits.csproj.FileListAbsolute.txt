@@ -1,0 +1,7 @@
+C:\Users\saket\OneDrive\Desktop\cs programs\sumofdigits\bin\Debug\sumofdigits.exe.config
+C:\Users\saket\OneDrive\Desktop\cs programs\sumofdigits\bin\Debug\sumofdigits.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\sumofdigits\bin\Debug\sumofdigits.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\sumofdigits\obj\Debug\sumofdigits.csproj.AssemblyReference.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\sumofdigits\obj\Debug\sumofdigits.csproj.CoreCompileInputs.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\sumofdigits\obj\Debug\sumofdigits.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\sumofdigits\obj\Debug\sumofdigits.pdb
