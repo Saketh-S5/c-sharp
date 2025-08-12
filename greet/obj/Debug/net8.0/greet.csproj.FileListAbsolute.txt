@@ -1,0 +1,14 @@
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\obj\Debug\net8.0\greet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\obj\Debug\net8.0\greet.AssemblyInfoInputs.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\obj\Debug\net8.0\greet.AssemblyInfo.cs
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\obj\Debug\net8.0\greet.csproj.CoreCompileInputs.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\bin\Debug\net8.0\greet.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\bin\Debug\net8.0\greet.deps.json
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\bin\Debug\net8.0\greet.runtimeconfig.json
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\bin\Debug\net8.0\greet.dll
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\bin\Debug\net8.0\greet.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\obj\Debug\net8.0\greet.dll
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\obj\Debug\net8.0\refint\greet.dll
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\obj\Debug\net8.0\greet.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\obj\Debug\net8.0\greet.genruntimeconfig.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\greet\obj\Debug\net8.0\ref\greet.dll
