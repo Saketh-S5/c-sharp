@@ -1,0 +1,14 @@
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\bin\Debug\net8.0\LiberaryaManagement.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\bin\Debug\net8.0\LiberaryaManagement.deps.json
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\bin\Debug\net8.0\LiberaryaManagement.runtimeconfig.json
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\bin\Debug\net8.0\LiberaryaManagement.dll
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\bin\Debug\net8.0\LiberaryaManagement.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\obj\Debug\net8.0\LiberaryaManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\obj\Debug\net8.0\LiberaryaManagement.AssemblyInfoInputs.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\obj\Debug\net8.0\LiberaryaManagement.AssemblyInfo.cs
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\obj\Debug\net8.0\LiberaryaManagement.csproj.CoreCompileInputs.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\obj\Debug\net8.0\LiberaryaManagement.dll
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\obj\Debug\net8.0\refint\LiberaryaManagement.dll
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\obj\Debug\net8.0\LiberaryaManagement.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\obj\Debug\net8.0\LiberaryaManagement.genruntimeconfig.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\LiberaryaManagement\obj\Debug\net8.0\ref\LiberaryaManagement.dll
