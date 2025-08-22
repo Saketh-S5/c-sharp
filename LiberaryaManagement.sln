@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiberaryaManagement", "LiberaryaManagement.csproj", "{12453CEC-8F43-4E04-B5F7-707EE66FEC70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12453CEC-8F43-4E04-B5F7-707EE66FEC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12453CEC-8F43-4E04-B5F7-707EE66FEC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12453CEC-8F43-4E04-B5F7-707EE66FEC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12453CEC-8F43-4E04-B5F7-707EE66FEC70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D61D2FE-78ED-41B6-B7A6-70E55077B8EC}
+	EndGlobalSection
+EndGlobal
