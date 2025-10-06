@@ -1,0 +1,14 @@
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\obj\Debug\net8.0\Online shopping demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\obj\Debug\net8.0\Online shopping demo.AssemblyInfoInputs.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\obj\Debug\net8.0\Online shopping demo.AssemblyInfo.cs
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\obj\Debug\net8.0\Online shopping demo.csproj.CoreCompileInputs.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\bin\Debug\net8.0\Online shopping demo.exe
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\bin\Debug\net8.0\Online shopping demo.deps.json
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\bin\Debug\net8.0\Online shopping demo.runtimeconfig.json
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\bin\Debug\net8.0\Online shopping demo.dll
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\bin\Debug\net8.0\Online shopping demo.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\obj\Debug\net8.0\Online shopping demo.dll
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\obj\Debug\net8.0\refint\Online shopping demo.dll
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\obj\Debug\net8.0\Online shopping demo.pdb
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\obj\Debug\net8.0\Online shopping demo.genruntimeconfig.cache
+C:\Users\saket\OneDrive\Desktop\cs programs\Online shopping demo\obj\Debug\net8.0\ref\Online shopping demo.dll
