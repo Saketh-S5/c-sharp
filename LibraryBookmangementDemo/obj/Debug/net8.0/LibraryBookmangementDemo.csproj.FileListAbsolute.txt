@@ -1,0 +1,14 @@
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\bin\Debug\net8.0\LibraryBookmangementDemo.exe
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\bin\Debug\net8.0\LibraryBookmangementDemo.deps.json
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\bin\Debug\net8.0\LibraryBookmangementDemo.runtimeconfig.json
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\bin\Debug\net8.0\LibraryBookmangementDemo.dll
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\bin\Debug\net8.0\LibraryBookmangementDemo.pdb
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\obj\Debug\net8.0\LibraryBookmangementDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\obj\Debug\net8.0\LibraryBookmangementDemo.AssemblyInfoInputs.cache
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\obj\Debug\net8.0\LibraryBookmangementDemo.AssemblyInfo.cs
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\obj\Debug\net8.0\LibraryBookmangementDemo.csproj.CoreCompileInputs.cache
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\obj\Debug\net8.0\LibraryBookmangementDemo.dll
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\obj\Debug\net8.0\refint\LibraryBookmangementDemo.dll
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\obj\Debug\net8.0\LibraryBookmangementDemo.pdb
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\obj\Debug\net8.0\LibraryBookmangementDemo.genruntimeconfig.cache
+C:\Users\BCA 45\Desktop\saketh.cs\LibraryBookmangementDemo\obj\Debug\net8.0\ref\LibraryBookmangementDemo.dll
