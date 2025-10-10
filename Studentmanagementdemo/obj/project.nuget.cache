@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r16a19ffOI8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BCA 45\\Desktop\\saketh.cs\\Studentmanagementdemo\\Studentmanagementdemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BCA 45\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
