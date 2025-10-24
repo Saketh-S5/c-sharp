@@ -1,0 +1,7 @@
+C:\Users\BCA 44\Desktop\yashas c#\PrinterDemo\bin\Debug\PrinterDemo.exe.config
+C:\Users\BCA 44\Desktop\yashas c#\PrinterDemo\bin\Debug\PrinterDemo.exe
+C:\Users\BCA 44\Desktop\yashas c#\PrinterDemo\bin\Debug\PrinterDemo.pdb
+C:\Users\BCA 44\Desktop\yashas c#\PrinterDemo\obj\Debug\PrinterDemo.csproj.AssemblyReference.cache
+C:\Users\BCA 44\Desktop\yashas c#\PrinterDemo\obj\Debug\PrinterDemo.csproj.CoreCompileInputs.cache
+C:\Users\BCA 44\Desktop\yashas c#\PrinterDemo\obj\Debug\PrinterDemo.exe
+C:\Users\BCA 44\Desktop\yashas c#\PrinterDemo\obj\Debug\PrinterDemo.pdb
